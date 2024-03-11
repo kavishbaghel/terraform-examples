@@ -1,2 +1,3 @@
-# terraform-usecases
-Terraform templates for deploying different set of services based on their usecase in the cloud.
+# Terraform Usecases
+
+This repo contains terraform template code for different set of use case to deploy in the AWS cloud. 
